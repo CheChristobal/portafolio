@@ -1,0 +1,19 @@
+.abs-center {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background-color:rgb(102, 226, 226);
+  }
+
+.nav-link {
+	color: aquamarine;
+  }
+
+.accordion-collapse collapse show-{
+	text-align:start;
+}
+
+.accordion-body{
+	display: flex;
+}
+
